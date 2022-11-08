@@ -8,7 +8,7 @@
 
 int main () {
 char run_again;
-do {                                                                        // Do while loop to try  again
+do {                                                                        // Do while loop to try again
 std :: cout << "---------------------------------------------- \n" ;   
 std :: cout << "EXCERCISE 2 \n";
 std :: cout << "---------------------------------------------- \n" ; 
