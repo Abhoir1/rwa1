@@ -15,7 +15,7 @@ do {                                                                            
     std :: array < std :: string, 2>actuators{"s","f"};
     std :: array < std :: string, 3>tables{"r","g","b"};
                                                                               
-    std :: string name_of_part{};                                                                                   // Creating strings for storing inputs from user
+    std :: string name_of_part{};                                                                                   // Creating strings for storing inputs from the user
     std :: string name_of_actuator{};
     std :: string name_of_table{};
 
